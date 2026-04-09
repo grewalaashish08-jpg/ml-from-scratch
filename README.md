@@ -100,5 +100,5 @@ This repository focuses on implementing algorithms from first principles to bett
 
 ## Author
 
-Poorvi Yadav  
+Aashish Grewal
 Machine Learning | AI Systems | LLM Engineering
